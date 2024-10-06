@@ -6,6 +6,8 @@
 }
 header{
     background-color: var(--heading-background-color);
+    color: var(--heading-text-color);
+    padding: 20px;
 }
 .hero img{
     display: block;
