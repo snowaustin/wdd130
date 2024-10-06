@@ -1,12 +1,11 @@
 :root {
-    --heading-background-color: #f4faf1;
+    --heading-background-color: #E63946;
     --heading-text-color: #A8DADC;
-    --accent-color-1: #E63946;
+    --accent-color-1: #f4faf1;
     --accent-color-2: #1D3557;
 }
-nav{
+header{
     background-color: var(--heading-background-color);
-    padding: 10px;
 }
 .hero img{
     display: block;
